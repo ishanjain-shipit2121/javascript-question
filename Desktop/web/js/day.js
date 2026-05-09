@@ -1,0 +1,22 @@
+let day =12;
+switch(day){
+  case 1:
+  console.log("monday");
+  case 2:
+  console.log("tuesday");
+  case 3:
+  console.log("wednesday");
+  case 4:
+  console.log("thursday");
+  case 5:
+  console.log("friday");
+  case 6:
+  console.log("saturday");
+  case 7:
+  console.log("sunday, fun day");
+break;
+
+default:
+  console.log("wroong day!");
+
+}
